@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163693756225",
+    "project_id": "counter-strike-hub",
+    "storage_bucket": "counter-strike-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163693756225:android:42f16c7062bb7904082bc0",
+        "android_client_info": {
+          "package_name": "com.example.cs_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbd8r6OwI7k-in6Pbown9jBoap4rv4gTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
